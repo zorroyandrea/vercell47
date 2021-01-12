@@ -1,0 +1,4 @@
+baseURL = "https://lordsheetmusic22.vercel.app"
+languageCode = "en-us"
+title = "Best Lord Sheet Music"
+theme = "tale-hugo-master"
